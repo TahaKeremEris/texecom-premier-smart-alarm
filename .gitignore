@@ -1,0 +1,4 @@
+texecom_sniffer/secrets.h
+build/
+*.bin
+captures/
